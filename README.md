@@ -52,5 +52,4 @@ To ensure the authentication flow works locally:
 1. Go to your Firebase Console -> **Authentication** -> **Sign-in method**.
 2. Enable both **Email/Password** and **Google** providers.
 
-## 📝 License
-This project is licensed under the MIT License.
+
